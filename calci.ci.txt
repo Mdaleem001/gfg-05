@@ -4,8 +4,12 @@ int sum(int a, int b)
 )
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 this is my second commit
 
 this is my second commit whic i have added.
 =======
 >>>>>>> parent of ec3b425 (2nd commit is added)
+=======
+this is my second commit
+>>>>>>> parent of 8a99002 (3rd commit is also added)
